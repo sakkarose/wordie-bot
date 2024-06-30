@@ -1,1 +1,1 @@
-# wordlestats-bot
+# wordle_statie-bot
